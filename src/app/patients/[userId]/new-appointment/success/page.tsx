@@ -39,7 +39,7 @@ export default async function SuccessPage({
             Your <span className="text-green-500">Appointment request</span> has
             been successfully submitted!!
           </h2>
-          <p>We'll be in touch shortly to confirm</p>
+          <p>We will be in touch shortly to confirm</p>
         </section>
 
         <section className="request-details">
